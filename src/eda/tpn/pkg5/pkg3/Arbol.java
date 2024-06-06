@@ -9,6 +9,17 @@ public class Arbol {
     public Arbol() {
         this.raiz = null;
     }
+
+    public Integer[] getVector() {
+        return vector;
+    }
+
+    public void setVector(Integer[] vector) {
+        this.vector = vector;
+    }
+    
+    
+    
     
     public void cargaVectorPorDefecto(){
         
