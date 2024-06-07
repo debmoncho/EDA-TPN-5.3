@@ -18,19 +18,8 @@ public class EDATPN53 {
 //        arbol.insertarN(nodo, 4);
 //        arbol.insertarN(nodo, 3);
 //        arbol.insertarN(nodo, 5);
-
-
-
-        kk.cargarVectorPorDefault();
         
-        kk.insertarIngrediente();
-
-        kk.verElementosEnVectorPrueba();
-        
-        kk.insertarIngrediente();
-        
-        kk.verElementosEnVectorPrueba();
-        
+        kk.masterMenu();
 
     }
     

@@ -86,9 +86,9 @@ public class Arbol {
         }
 
         if (punt == null) {
-            System.out.println("---> No se encontro");
+            System.out.println("---> No se encontro el ingrediente");
         } else {
-            System.out.println("---> Se encontro");
+            System.out.println("---> Se encontro el ingrediente!");
         }
 
     }
